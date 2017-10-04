@@ -21,7 +21,6 @@ const int l_enc1 = 3; // Brown
 const int l_enc2; // White/Brown
 
 
-int throttle = 0; //also unused
 double throttlex;
 double throttley;
 double max_volt = 0.8; // max output of 0.8*12V instead of supplied 12
